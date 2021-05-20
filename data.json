@@ -1,0 +1,54 @@
+{
+  "guitars": [
+    {
+      "id": "1",
+      "name": "One",
+      "description": "A special kind of guitar to play some great music",
+      "height": "7",
+      "width": "5",
+      "color": "Black",
+      "condition": "Good",
+      "photo": "https://images.ctfassets.net/3s5io6mnxfqz/5RWdSD3DtCUdOiAP42fYPQ/2edbe2b693c19f78887759a23abacf23/image1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Two",
+      "description": "A special kind of guitar to play some great music",
+      "height": "8",
+      "width": "4",
+      "color": "Red",
+      "condition": "Excellent",
+      "photo": "https://www.faithguitars.com/media/k2/items/cache/f8a458e18503c86603dc02339a944feb_XL.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Three",
+      "description": "A special kind of guitar to play some great music",
+      "height": "10",
+      "width": "8",
+      "color": "Green",
+      "condition": "Bad",
+      "photo": "https://cdn.shopify.com/s/files/1/0550/6737/files/highland_m_mobile_1600x.jpg?v=1619197192"
+    },
+    {
+      "id": "4",
+      "name": "Four",
+      "description": "A special kind of guitar to play some great music",
+      "height": "10",
+      "width": "8",
+      "color": "Yellow",
+      "condition": "Working",
+      "photo": "https://images.squarespace-cdn.com/content/v1/5c6a80497a1fbd48bc523e2e/1553162161386-I3RN91PU4U374YWS3FSY/ke17ZwdGBToddI8pDm48kHkKIuOgsLzPZEaSlLv4GXt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmS0k9nmfOWkBD2X4dgpGrpUebrrtR-L2YNvO2Ojz5ggDjdvUycTEz0dtB8ST6IjY8/093-RST_0279-Modifier.jpg?format=1500w"
+    },
+    {
+      "id": "5",
+      "name": "Five",
+      "description": "New item in the collection",
+      "height": "15",
+      "width": "12",
+      "color": "Purple",
+      "condition": "Excellent",
+      "photo": "https://cdn.shopify.com/s/files/1/1503/3226/products/StudioSession-3702.jpg?v=1605178017"
+    }
+  ]
+}
